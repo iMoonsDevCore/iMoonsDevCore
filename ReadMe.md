@@ -1,7 +1,7 @@
 ![Banner](./banner.gif)
 
 # Hey 👋, I'm Bernard Martinez
-### Backend Developer specialized in Node.js ecosystem
+### Backend Developer focused on Node.js ecosystem
 
 Backend-focused developer passionate about building scalable APIs, automation systems, and business-oriented solutions.
 
