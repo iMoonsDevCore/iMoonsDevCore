@@ -29,15 +29,6 @@ Focused on backend architecture, database optimization, system design, and autom
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iMoonsDevCore&show_icons=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMoonsDevCore&layout=compact&theme=dark" height="150" />
-</div>
-
----
-
 ## 📫 Contact
 
 - Email: your-email@example.com  
