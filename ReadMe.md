@@ -1,15 +1,94 @@
+![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=iMoonsDevCore&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=iMoonsDevCore&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=iMoonsDevCore&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Hey 👋, I'm Bernard Martinez
+### Backend Developer specialized in Node.js ecosystem
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Welcome to my GitHub profile.
+
+I'm a backend-focused developer passionate about building scalable APIs, automation systems, and business-oriented solutions.
+
+Currently working with **Express.js**, **Prisma**, **PostgreSQL**, **MongoDB**, and **MySQL**, while improving my knowledge in backend architecture, system design, and performance optimization.
 
 ---
-[![](https://komarev.com/ghpvc/?username=iMoonsDevCore&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+### Ticket System API
+A backend system for managing tickets and workflows.
+
+**Tech Stack:**  
+- Node.js  
+- Express.js  
+- TypeScript  
+- Prisma  
+- PostgreSQL  
+
+---
+
+### Authentication System
+Authentication API with JWT, refresh tokens, and role-based access.
+
+**Features:**  
+- Login/Register  
+- Access Token & Refresh Token  
+- Role Permissions  
+- Middleware Protection  
+
+**Tech Stack:**  
+- Node.js  
+- Express.js  
+- MongoDB  
+- MySQL  
+
+---
+
+### Automation Workflows
+Backend automations focused on business processes using n8n integrations.
+
+**Use Cases:**  
+- Webhooks  
+- Email automation  
+- Notifications  
+- Data synchronization  
+
+---
+
+## 💡 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,postgres,mongodb,mysql,docker,git&theme=dark" />
+</div>
+
+---
+
+## 📚 Currently Learning
+
+- Advanced PostgreSQL optimization  
+- C# / .NET  
+- System Design  
+- Scalable backend patterns  
+- AI integrations  
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iMoonsDevCore&show_icons=true&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMoonsDevCore&layout=compact&theme=dark" height="150" />
+</div>
+
+---
+
+## 📫 Contact
+
+- Email: your-email@example.com  
+- GitHub: https://github.com/iMoonsDevCore  
+
+---
+
+## ⚡ Philosophy
+
+> Build useful systems.  
+> Solve real problems.  
+> Optimize what matters.
