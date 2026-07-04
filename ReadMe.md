@@ -1,4 +1,4 @@
-![Banner](./Syrensgifs Seishiro Nagi GIF - Syrensgifs Seishiro Nagi Nagi - Discover & Share GIFs.gif)
+![Banner](./banner.gif)
 
 # Hey 👋, I'm Bernard Martinez
 ### Backend Developer specialized in Node.js ecosystem
