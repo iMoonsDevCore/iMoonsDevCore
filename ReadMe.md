@@ -11,6 +11,11 @@ Focused on backend architecture, database optimization, system design, and autom
 
 ---
 
+![](https://komarev.com/ghpvc/?username=iMoonsDevCore&color=blue)
+![](https://img.shields.io/github/followers/iMoonsDevCore?style=social)
+
+---
+
 ## 💡 Tech Stack
 
 <div align="center">
